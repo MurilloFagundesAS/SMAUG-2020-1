@@ -1,6 +1,6 @@
 # Caçada ao Uirapuru (2020)
 
-![Uirapuru](https://github.com/MurilloFagundesAS/MurilloFagundesAS.github.io/blob/master/Imagens/Uirapuru.jpg)
+![Uirapuru](https://github.com/MurilloFagundesAS/MurilloFagundesAS.github.io/blob/main/Imagens/Uirapuru.jpg "Caçada ao Uirapuru (2020)")
 
   **Caçada ao Uirapuru** é um jogo de plataforma desenvolvido para o **Sistema Máximizado de Avaliação Unificada em Games (SMAUG)** no primeiro semetre de 2020, solitado no curso de Jogos Digitais da FATEC de Carapicuíba, para a conclusão do semestre acadêmico.
   
